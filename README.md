@@ -1,3 +1,5 @@
 # meu-site
-O template escolhido foi o do blog porquê eu achei a interface comunicativa e direta, consegui fazer uma descrição melhor utilizando essa interface.
-As minhas customizações foram em relação as cores dos títulos e dos links, adicionei 3 imagens e apaguei do original alguns formatos e links que não vi utilidade para a minha página.
+
+O template escolhido foi o do blog por oferecer uma interface comunicativa e direta, algo ideal para uma descrição profissional limpa e minimalista.
+
+As customizações foram nas cores em relação aos títulos e aos links, adicionei 3 imagens e apaguei do original alguns formatos como a tabela  e links como arquivos que não vi utilidade para a minha página.
